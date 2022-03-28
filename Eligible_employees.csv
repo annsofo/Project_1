@@ -1,0 +1,41 @@
+,EligibleEmployee_key,employee_id,first_name,last_name,email,phone_number,job_id,manager_id,employee_department_id,city,state_province,country_id,department_name,department_location_id
+0,0,100,Steven,King,steven.king@sqltutorial.org,515.123.4567,4,,9,Seattle,Washington,US,Executive,1700
+1,1,101,Neena,Kochhar,neena.kochhar@sqltutorial.org,515.123.4568,5,100.0,9,Seattle,Washington,US,Executive,1700
+2,2,102,Lex,De Haan,lex.de haan@sqltutorial.org,515.123.4569,5,100.0,9,Seattle,Washington,US,Executive,1700
+3,3,103,Alexander,Hunold,alexander.hunold@sqltutorial.org,590.423.4567,9,102.0,6,Southlake,Texas,US,IT,1400
+4,4,104,Bruce,Ernst,bruce.ernst@sqltutorial.org,590.423.4568,9,103.0,6,Southlake,Texas,US,IT,1400
+5,5,105,David,Austin,david.austin@sqltutorial.org,590.423.4569,9,103.0,6,Southlake,Texas,US,IT,1400
+6,6,106,Valli,Pataballa,valli.pataballa@sqltutorial.org,590.423.4560,9,103.0,6,Southlake,Texas,US,IT,1400
+7,7,107,Diana,Lorentz,diana.lorentz@sqltutorial.org,590.423.5567,9,103.0,6,Southlake,Texas,US,IT,1400
+8,8,108,Nancy,Greenberg,nancy.greenberg@sqltutorial.org,515.124.4569,7,101.0,10,Seattle,Washington,US,Finance,1700
+9,9,109,Daniel,Faviet,daniel.faviet@sqltutorial.org,515.124.4169,6,108.0,10,Seattle,Washington,US,Finance,1700
+10,10,110,John,Chen,john.chen@sqltutorial.org,515.124.4269,6,108.0,10,Seattle,Washington,US,Finance,1700
+11,11,111,Ismael,Sciarra,ismael.sciarra@sqltutorial.org,515.124.4369,6,108.0,10,Seattle,Washington,US,Finance,1700
+12,12,112,Jose Manuel,Urman,jose manuel.urman@sqltutorial.org,515.124.4469,6,108.0,10,Seattle,Washington,US,Finance,1700
+13,13,113,Luis,Popp,luis.popp@sqltutorial.org,515.124.4567,6,108.0,10,Seattle,Washington,US,Finance,1700
+14,14,114,Den,Raphaely,den.raphaely@sqltutorial.org,515.127.4561,14,100.0,3,Seattle,Washington,US,Purchasing,1700
+15,15,115,Alexander,Khoo,alexander.khoo@sqltutorial.org,515.127.4562,13,114.0,3,Seattle,Washington,US,Purchasing,1700
+16,16,116,Shelli,Baida,shelli.baida@sqltutorial.org,515.127.4563,13,114.0,3,Seattle,Washington,US,Purchasing,1700
+17,17,117,Sigal,Tobias,sigal.tobias@sqltutorial.org,515.127.4564,13,114.0,3,Seattle,Washington,US,Purchasing,1700
+18,18,118,Guy,Himuro,guy.himuro@sqltutorial.org,515.127.4565,13,114.0,3,Seattle,Washington,US,Purchasing,1700
+19,19,119,Karen,Colmenares,karen.colmenares@sqltutorial.org,515.127.4566,13,114.0,3,Seattle,Washington,US,Purchasing,1700
+20,20,120,Matthew,Weiss,matthew.weiss@sqltutorial.org,650.123.1234,19,100.0,5,South San Francisco,California,US,Shipping,1500
+21,21,121,Adam,Fripp,adam.fripp@sqltutorial.org,650.123.2234,19,100.0,5,South San Francisco,California,US,Shipping,1500
+22,22,122,Payam,Kaufling,payam.kaufling@sqltutorial.org,650.123.3234,19,100.0,5,South San Francisco,California,US,Shipping,1500
+23,23,123,Shanta,Vollman,shanta.vollman@sqltutorial.org,650.123.4234,19,100.0,5,South San Francisco,California,US,Shipping,1500
+24,24,126,Irene,Mikkilineni,irene.mikkilineni@sqltutorial.org,650.124.1224,18,120.0,5,South San Francisco,California,US,Shipping,1500
+25,25,145,John,Russell,john.russell@sqltutorial.org,,15,100.0,8,Oxford,Oxford,UK,Sales,2500
+26,26,146,Karen,Partners,karen.partners@sqltutorial.org,,15,100.0,8,Oxford,Oxford,UK,Sales,2500
+27,27,176,Jonathon,Taylor,jonathon.taylor@sqltutorial.org,,16,100.0,8,Oxford,Oxford,UK,Sales,2500
+28,28,177,Jack,Livingston,jack.livingston@sqltutorial.org,,16,100.0,8,Oxford,Oxford,UK,Sales,2500
+29,29,178,Kimberely,Grant,kimberely.grant@sqltutorial.org,,16,100.0,8,Oxford,Oxford,UK,Sales,2500
+30,30,179,Charles,Johnson,charles.johnson@sqltutorial.org,,16,100.0,8,Oxford,Oxford,UK,Sales,2500
+31,31,192,Sarah,Bell,sarah.bell@sqltutorial.org,650.501.1876,17,123.0,5,South San Francisco,California,US,Shipping,1500
+32,32,193,Britney,Everett,britney.everett@sqltutorial.org,650.501.2876,17,123.0,5,South San Francisco,California,US,Shipping,1500
+33,33,200,Jennifer,Whalen,jennifer.whalen@sqltutorial.org,515.123.4444,3,101.0,1,Seattle,Washington,US,Administration,1700
+34,34,201,Michael,Hartstein,michael.hartstein@sqltutorial.org,515.123.5555,10,100.0,2,Toronto,Ontario,CA,Marketing,1800
+35,35,202,Pat,Fay,pat.fay@sqltutorial.org,603.123.6666,11,201.0,2,Toronto,Ontario,CA,Marketing,1800
+36,36,203,Susan,Mavris,susan.mavris@sqltutorial.org,515.123.7777,8,101.0,4,London,,UK,Human Resources,2400
+37,37,204,Hermann,Baer,hermann.baer@sqltutorial.org,515.123.8888,12,101.0,7,Munich,Bavaria,DE,Public Relations,2700
+38,38,205,Shelley,Higgins,shelley.higgins@sqltutorial.org,515.123.8080,2,101.0,11,Seattle,Washington,US,Accounting,1700
+39,39,206,William,Gietz,william.gietz@sqltutorial.org,515.123.8181,1,205.0,11,Seattle,Washington,US,Accounting,1700
